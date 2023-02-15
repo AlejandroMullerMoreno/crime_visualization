@@ -4,7 +4,7 @@ The crime data will be used to compare the rate of reporting of crime in the cit
 
 
 Data Sources
-- Data.gov
+- Data.gov (since csv file is too large to upload to github, this is the link to the csv file that we pulled data from: https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 
 Tools For Data Analysis
 - Pandas
