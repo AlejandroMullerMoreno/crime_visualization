@@ -21,3 +21,7 @@ df[df["Vict Sex"] == "M"].shape
 # df[df["DATE OCC"] == "01/01/2020 12:00:00 AM"]
 sample = ["01/01/2020 12:00:00 AM"]
 df[df["DATE OCC"].isin(sample)] 
+# df2 = df[df["DATE OCC"].dt.strftime('%Y') == "2020"]
+# df2 = df.loc[(df["DATE OCC"] >= "01/01/2020") & (df["DATE OCC"] <= "12/31/2020")]
+df2 = df.loc[(df["DATE OCC"] >= "01/01/2021")]
+df2.head()
