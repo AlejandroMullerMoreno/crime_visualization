@@ -5,6 +5,7 @@ The crime data will be used to compare the rate of reporting of crime in the cit
 
 Data Sources
 - Data.gov (since csv file is too large to upload to github, this is the link to the csv file that we pulled data from: https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
+- The following link has more information on the attributes of the data set: https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
 
 Tools For Data Analysis
 - Pandas

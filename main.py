@@ -15,3 +15,9 @@ df[df["Vict Sex"] == "F"].shape
 
 # number of male victims 
 df[df["Vict Sex"] == "M"].shape
+
+# we want to count the number of incidences of violent crime for each year starting with 2020 and ending with 2023
+# note that at this current time, we are in February 2023
+# df[df["DATE OCC"] == "01/01/2020 12:00:00 AM"]
+sample = ["01/01/2020 12:00:00 AM"]
+df[df["DATE OCC"].isin(sample)] 
