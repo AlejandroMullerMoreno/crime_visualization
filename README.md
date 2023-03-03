@@ -12,3 +12,16 @@ Tools For Data Analysis
 - NumPy
 - Seaborn
 - MatplotLib
+
+
+
+Insights
+
+
+There were a couple of insights that we were able to glean 
+
+
+1) On Victims
+
+    - In total, there were slightly more male victims of crime than female victims of crime (roughly 270k to 240k)
+        
