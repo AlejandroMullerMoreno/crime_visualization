@@ -24,4 +24,7 @@ There were a couple of insights that we were able to glean
 1) On Victims
 
     - In total, there were slightly more male victims of crime than female victims of crime (roughly 270k to 240k)
+    
+    <img width="433" alt="Screen Shot 2023-03-02 at 10 01 00 PM" src="https://user-images.githubusercontent.com/56523244/222628576-16cacb63-9e56-4295-8d3a-4380b5594492.png">
+
         
